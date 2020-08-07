@@ -1,6 +1,8 @@
-# Hi there, I'm [Mukesh][website] 👋
+# <h1> Hey, How You Doin <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1> 
 
-## I'm a Data Scientist, Back End-Developer, Otaku, and a Potterhead!
+Welcome to my page!
+
+I'm <b>Mukesh</b>, a Data Scientist and a Backend Developer from <img src="https://image.flaticon.com/icons/svg/2465/2465327.svg" width="15"> <b>Chennai, Inida</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197567.svg" width="15"> <b>Dublin, Ireland</b>! 👋 
 - 🔭 I’m currently looking for a job (find my [resume][website] here)!
 - 🌱 Trying learn to everything 🤣
 - 👯 I’m looking to collaborate and work with others on intresting projects or ideas! :bowtie:
@@ -23,6 +25,7 @@
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 <br />
 
@@ -43,6 +46,8 @@
 etc...
 <br />
 <br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mukeshmk.mukeshmk)
 
 ---
 
