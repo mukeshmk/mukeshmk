@@ -16,6 +16,12 @@
 
 <br />
 
+---
+
+<img align="left" alt="mukeshmk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mukeshmk&show_icons=true&hide_border=true" />
+
+<br />
+
 [website]: https://mukeshmk.github.io/
 [twitter]: https://twitter.com/amukeshmk
 [instagram]: https://www.instagram.com/mukeshmk95/
