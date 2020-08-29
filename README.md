@@ -3,8 +3,8 @@
 Welcome to my page!
 
 I'm <b>Mukesh</b>, a Data Scientist and a Backend Developer from <img src="https://image.flaticon.com/icons/svg/2465/2465327.svg" width="15"> <b>Chennai, Inida</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197567.svg" width="15"> <b>Dublin, Ireland</b>! 👋 
-- 🔭 I’m currently looking for a job (find my [resume][website] here)!
-- 🌱 Trying learn to everything 🤣
+- 🔭 I’m currently looking for a job (find my resume [here][website])!
+- 🌱 Trying to learn to everything 🤣
 - 👯 I’m looking to collaborate and work with others on intresting projects or ideas! :bowtie:
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read comics and manga, play basketball and code 🤣
